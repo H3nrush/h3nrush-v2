@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.221340d4.css",
+    "main.js": "./static/js/main.9275e116.js",
+    "static/js/453.a4fc4a19.chunk.js": "./static/js/453.a4fc4a19.chunk.js",
+    "static/media/Background-Music.mp3": "./static/media/Background-Music.69a72d01a0c9254e602f.mp3",
+    "static/media/Shekasteh.ttf": "./static/media/Shekasteh.8b64770327bfcd5102b0.ttf",
+    "static/media/Untitled-1.jpg": "./static/media/Untitled-1.e2f4e92616468ef321bb.jpg",
+    "static/media/jpg": "./static/media/8df34da6193f507a9d566b5a46567b9b.26b722dfacaa3634cbda.jpg",
+    "static/media/32-6-jpg.webp": "./static/media/32-6-jpg.8d39b6b68d8b0c1aef22.webp",
+    "static/media/360_F_273227473_N0WRQuX3uZCJJxlHKYZF44uaJAkh2xLG.jpg": "./static/media/360_F_273227473_N0WRQuX3uZCJJxlHKYZF44uaJAkh2xLG.e14de9bb40ca17961a4c.jpg",
+    "static/media/coding_languages.webp": "./static/media/coding_languages.d0cf8c0c4bd89ee46719.webp",
+    "static/media/screencapture-localhost-3001-CreateAccount-2024-03-24-00_45_37.png": "./static/media/screencapture-localhost-3001-CreateAccount-2024-03-24-00_45_37.7ddf81af32f2edf609cb.png",
+    "static/media/screencapture-localhost-3001-Login-2024-03-24-00_44_47.png": "./static/media/screencapture-localhost-3001-Login-2024-03-24-00_44_47.c8775c232889b0277433.png",
+    "static/media/photo_2024-03-22_16-41-56.jpg": "./static/media/photo_2024-03-22_16-41-56.7a7fd7b9f92d8e4d9ab9.jpg",
+    "static/media/F9130D1JE4KR0NA.webp": "./static/media/F9130D1JE4KR0NA.12b5c3305fc55bd96cc7.webp",
+    "static/media/clapperboard.png": "./static/media/clapperboard.a758e56e9685f988f8e7.png",
+    "static/media/code.png": "./static/media/code.7ae841d76a8e293724a6.png",
+    "static/media/cmd.bat": "./static/media/cmd.f5c311a6fc68d17c5e76.bat",
+    "static/media/pngegg.png": "./static/media/pngegg.987334e9f782cc505f25.png",
+    "static/media/depositphotos_7429076-stock-photo-silhouette-of-boy-on-sea.jpg": "./static/media/depositphotos_7429076-stock-photo-silhouette-of-boy-on-sea.55f51866d578e8abda8a.jpg",
+    "index.html": "./index.html",
+    "main.221340d4.css.map": "./static/css/main.221340d4.css.map",
+    "main.9275e116.js.map": "./static/js/main.9275e116.js.map",
+    "453.a4fc4a19.chunk.js.map": "./static/js/453.a4fc4a19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221340d4.css",
+    "static/js/main.9275e116.js"
+  ]
+}
